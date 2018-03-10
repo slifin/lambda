@@ -1,7 +1,6 @@
 <h1><p align="center">λ</p></h1>
 
-Functional PHP Framework
+<i>Functional PHP Framework</i>
 
 
-
-<h1>Getting Started</h1>
+<h3>Getting Started</h3>
